@@ -17,3 +17,5 @@ de nombre "iot_resources"  con la tabla "`temperatura`(`id`, `fecha`, `temperatu
 Luego se creara una app en android ,una web y otra de escritorio donde consultar la informacion.
 Todo esto se trabajara localmente , ya que es un simulacion para practicar el desarollo IoT.
 
+La carpeta "PruebasIot Bdatos" esta alojada en la carpeta "www" en donde esta instalado Wamp.
+
