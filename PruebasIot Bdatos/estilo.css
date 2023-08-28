@@ -1,0 +1,74 @@
+/* Estilo para toda la web  */
+* {
+	padding: 0;
+	margin: 0;
+	
+	font-family: century gothic;
+	background-color: #d3c2c2;
+	text-align: center;
+}
+
+
+/* Estilo para los formularios */
+
+form {
+	padding: 50px 20px;
+	background-color: #2e0707;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px;
+	border-radius: 25px;
+}
+
+
+/*Estilo para los textos h1*/
+h1 {
+	background-color: rgb(109, 24, 18);
+	
+	text-align: center;
+	padding: 12px;
+	color: #d3c2c2;
+	border-radius: 5px;
+}
+
+
+/*Estilo para los campos */
+input {
+	width: calc(100% - 20px);
+	padding: 9px;
+	color: #000000;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px;
+	border-radius: 10px;
+}
+
+/* Estilo para el boton enviar */
+input[type='submit']{
+	background-color: rgb(109, 24, 18);
+	color: #d3c2c2;
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border:#000000;
+	border-radius: 10px;
+}
+
+/*Estilo para la clase ok*/
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: rgb(25, 99, 53);
+	color: #ffffff
+}
+
+/*Estilo para la clase bad*/
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: rgb(0, 0, 0);
+	color: #ebdada
+}

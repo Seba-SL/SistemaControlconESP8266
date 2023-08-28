@@ -1,0 +1,6 @@
+nombre base de datos
+iot_resources
+
+nombre tabla 
+temperatura
+id(auto) , fecha(auto), temperatura,serie
