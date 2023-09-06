@@ -19,3 +19,4 @@ Todo esto se trabajara localmente , ya que es un simulacion para practicar el de
 
 La carpeta "PruebasIot Bdatos" esta alojada en la carpeta "www" en donde esta instalado Wamp.
 
+![sistema](https://github.com/Seba-SL/SistemaControlconESP8266/assets/65742172/fe5e4151-f480-44d9-8089-a06463645812)
